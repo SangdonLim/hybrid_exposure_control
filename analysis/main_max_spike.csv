@@ -1,0 +1,26 @@
+"","Estimate","Std. Error","t value","Pr(>|t|)"
+"(Intercept)",1.0027584375,0.0004198876,2388.1591875869,0
+"methodalpha-stratification-1str-2",0,0.0005818133,1e-10,0.9999999999
+"methodalpha-stratification-1str-3",0,0.0005818133,1e-10,0.9999999999
+"methodeligibility",-0.84890725,0.0005818133,-1459.0715035676,0
+"methodprogressive-restricted",-0.86632475,0.0005818133,-1489.0080813426,0
+"methodhybrid-se-1str-2",-0.8336735,0.0005818133,-1432.8882774054,0
+"methodhybrid-se-1str-3",-0.85780875,0.0005818133,-1474.3710842803,0
+"methodmultiple-objective",-0.82679725,0.0005818133,-1421.0696241586,0
+"target0.15",-0.005516875,0.0005038651,-10.9491106609,0
+"itempool_size600",-0.005516875,0.0005038651,-10.9491106609,0
+"methodalpha-stratification-1str-2:target0.15",0,0.0006718202,0,1
+"methodalpha-stratification-1str-3:target0.15",0,0.0006718202,0,1
+"methodeligibility:target0.15",-0.0441955,0.0006718202,-65.7847178268,0
+"methodprogressive-restricted:target0.15",-0.0328375,0.0006718202,-48.8784077935,0
+"methodhybrid-se-1str-2:target0.15",-0.052159,0.0006718202,-77.6383364172,0
+"methodhybrid-se-1str-3:target0.15",-0.0431465,0.0006718202,-64.2232880659,0
+"methodmultiple-objective:target0.15",-0.0558615,0.0006718202,-83.1494838814,0
+"methodalpha-stratification-1str-2:itempool_size600",0,0.0006718202,0,1
+"methodalpha-stratification-1str-3:itempool_size600",0,0.0006718202,0,1
+"methodeligibility:itempool_size600",0.0171735,0.0006718202,25.562644423,0
+"methodprogressive-restricted:itempool_size600",0.0260555,0.0006718202,38.7834443628,0
+"methodhybrid-se-1str-2:itempool_size600",0.022625,0.0006718202,33.6771671512,0
+"methodhybrid-se-1str-3:itempool_size600",0.0227485,0.0006718202,33.8609961078,0
+"methodmultiple-objective:itempool_size600",0.0090225,0.0006718202,13.4299332871,0
+"target0.15:itempool_size600",0.01103375,0.0003359101,32.8473319827,0
