@@ -3,6 +3,7 @@ library(doParallel)
 
 # check package version
 if (packageVersion("TestDesign") != "1.3.0.9001") {
+  # this version is currently private; i am cleaning it up and it will be available soon
   .rs.restartR()
 }
 
